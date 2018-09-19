@@ -199,29 +199,22 @@ text.focus.color=#2B7EA8
 [Tab]
 inherits=PanelButtonCommand
 interior.element=tab
-text.margin.left=3
-text.margin.right=3
-text.margin.top=1
+text.margin.left=2
+text.margin.right=2
+text.margin.top=3
 text.margin.bottom=1
 frame.element=tab
 indicator.element=tab
 indicator.size=9
-frame.top=6
-frame.bottom=6
-frame.left=6
-frame.right=6
-text.normal.color=#0000008c
-text.focus.color=#194B64
-text.toggle.color=#000000c8
+frame.top=4
+frame.bottom=4
+frame.left=4
+frame.right=4
+text.normal.color=#f2f2f2dd
+text.focus.color=white
+text.toggle.color=white
 text.bold=true
-text.shadow=true
-text.shadow.color=white
-text.shadow.alpha=190
-text.shadow.xshift=0
-text.shadow.yshift=1
-text.shadow.depth=2
-min_width=+0.3font
-min_height=0
+text.shadow=false
 frame.expansion=0
 
 [TabFrame]
@@ -229,7 +222,7 @@ inherits=PanelButtonCommand
 frame.element=tabframe
 interior=false
 frame.top=6
-frame.bottom=6
+frame.bottom=0
 frame.left=6
 frame.right=6
 
@@ -437,10 +430,10 @@ text.focus.color=#2B7EA8
 frame.expansion=0
 
 [TabBarFrame]
-inherits=GenericFrame
 frame=true
 frame.element=tabbarFrame
-interior=false
+interior.element=tabbarFrame
+interior=true
 frame.top=0
 frame.bottom=2
 frame.left=0
