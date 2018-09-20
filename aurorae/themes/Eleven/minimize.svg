@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="29.673889"
-     inkscape:cx="22.506639"
-     inkscape:cy="18.473269"
+     inkscape:zoom="14.836945"
+     inkscape:cx="17.609954"
+     inkscape:cy="22.185829"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -77,7 +77,7 @@
          cy="287.86688"
          cx="3.0901363"
          id="path856"
-         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#f4d63f;stroke-width:0.86255676;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+         style="opacity:1;fill:#c9b70b;fill-opacity:1;fill-rule:evenodd;stroke:#c9b70b;stroke-width:0.71437502;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
       <g
          transform="rotate(45,3.0936691,287.84837)"
          id="g2630">
@@ -94,6 +94,12 @@
     <g
        id="hover-center"
        transform="translate(5.057327,2.5408693)">
+      <circle
+         style="opacity:1;fill:#c9b70b;fill-opacity:0.38223937;fill-rule:evenodd;stroke:#c9b70b;stroke-width:0.71437502;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="circle2266"
+         cx="3.0901363"
+         cy="287.86688"
+         r="1.868873" />
       <rect
          style="opacity:1;fill:none;fill-opacity:0.125;fill-rule:evenodd;stroke:none;stroke-width:3.24064445;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
          id="rect2264"
@@ -101,12 +107,6 @@
          height="5.291667"
          x="0.4443028"
          y="285.22104" />
-      <circle
-         style="opacity:1;fill:#f4d63f;fill-opacity:0.50900903;fill-rule:evenodd;stroke:#f4d63f;stroke-width:0.86255676;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-         id="circle2266"
-         cx="3.0901363"
-         cy="287.86688"
-         r="1.868873" />
       <g
          id="g2270"
          transform="rotate(45,3.0936691,287.84837)">
@@ -117,7 +117,7 @@
            height="1.9871042"
            width="0.66834229"
            id="rect2268"
-           style="opacity:1;fill:#dddddd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.47227547;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+           style="opacity:1;fill:#fefefe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.47227547;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
       </g>
     </g>
     <g
@@ -158,12 +158,12 @@
          cy="287.86688"
          cx="3.0901363"
          id="circle2286"
-         style="opacity:1;fill:#f4d63f;fill-opacity:0.50900903;fill-rule:evenodd;stroke:none;stroke-width:0.86255676;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+         style="opacity:1;fill:#c9b70b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.86255676;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
       <g
          transform="rotate(45,3.0936691,287.84837)"
          id="g2290">
         <rect
-           style="opacity:1;fill:#fff8ed;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.47227547;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.47227547;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
            id="rect2288"
            width="0.66834229"
            height="1.9871042"

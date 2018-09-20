@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="10.093938"
-     inkscape:cx="14.415885"
-     inkscape:cy="21.467625"
+     inkscape:zoom="20.187876"
+     inkscape:cx="18.454999"
+     inkscape:cy="20.942892"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -52,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -75,7 +75,7 @@
          cy="287.86688"
          cx="3.0901363"
          id="path856"
-         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#fd9d47;stroke-width:0.86255676;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+         style="opacity:1;fill:#ee7e1a;fill-opacity:1;fill-rule:evenodd;stroke:#ee7e1a;stroke-width:0.71437497;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
       <g
          transform="rotate(45,3.0936691,287.84837)"
          id="g2630">
@@ -107,7 +107,7 @@
          x="0.4443028"
          y="285.22104" />
       <circle
-         style="opacity:1;fill:#fd9d47;fill-opacity:0.50965247;fill-rule:evenodd;stroke:#fd9d47;stroke-width:0.86255676;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         style="opacity:1;fill:#ee7e1a;fill-opacity:0.37065637;fill-rule:evenodd;stroke:#ee7e1a;stroke-width:0.71437497;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
          id="circle820"
          cx="3.0901363"
          cy="287.86688"
@@ -177,7 +177,7 @@
          cy="287.86688"
          cx="3.0901363"
          id="circle844"
-         style="opacity:1;fill:#fd9d47;fill-opacity:0.50965247;fill-rule:evenodd;stroke:none;stroke-width:0.86255676;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+         style="opacity:1;fill:#ee7e1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.86255676;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
       <g
          transform="rotate(45,3.0936691,287.84837)"
          id="g850">
