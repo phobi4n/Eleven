@@ -43,7 +43,7 @@ combo_menu=true
 combo_focus_rect=true
 groupbox_top_label=false
 inline_spin_indicators=true
-joined_inactive_tabs=false
+joined_inactive_tabs=true
 layout_spacing=2
 scrollbar_in_view=false
 submenu_overlap=4
@@ -62,7 +62,7 @@ highlight.color=#2d82ad
 inactive.highlight.color=#2d82ad
 text.color=#45484b
 window.text.color=#54575b
-button.text.color=#ff0000
+button.text.color=#3d5aaa
 disabled.text.color=#00000073
 tooltip.text.color=white
 highlight.text.color=white
@@ -93,15 +93,15 @@ transparent_arrow_button=true
 [PanelButtonCommand]
 frame=true
 frame.element=button
-frame.top=3
-frame.bottom=3
-frame.left=3
-frame.right=3
+frame.top=4
+frame.bottom=4
+frame.left=4
+frame.right=4
 interior=true
 interior.element=button
 indicator.size=10
-text.normal.color=#646464
-text.focus.color=white
+text.normal.color=#141414
+text.focus.color=#414141
 text.press.color=white
 text.toggle.color=white
 text.shadow=0
@@ -118,6 +118,16 @@ min_height=+0.1font
 
 [PanelButtonTool]
 inherits=PanelButtonCommand
+interior.element=tbb
+frame.element=tbb
+frame=true
+interior=true
+frame.top=2
+frame.bottom=2
+frame.left=2
+frame.right=2
+text.normal.color=white
+text.focus.color=yellow
 
 [ToolbarLineEdit]
 interior.element=tlineedit
@@ -171,10 +181,10 @@ frame=true
 interior=false
 frame.element=common
 interior.element=common
-frame.top=1
-frame.bottom=1
-frame.left=1
-frame.right=1
+frame.top=2
+frame.bottom=2
+frame.left=2
+frame.right=2
 
 [LineEdit]
 inherits=PanelButtonCommand
@@ -192,22 +202,22 @@ indicator.size=10
 
 [ToolboxTab]
 inherits=PanelButtonCommand
-text.normal.color=black
+text.normal.color=green
 text.press.color=#000000c8
 text.focus.color=#2B7EA8
 
 [Tab]
 inherits=PanelButtonCommand
 interior.element=tab
-text.margin.left=2
-text.margin.right=2
-text.margin.top=1
-text.margin.bottom=1
+text.margin.left=0
+text.margin.right=0
+text.margin.top=0
+text.margin.bottom=0
 frame.element=tab
 indicator.element=tab
 indicator.size=9
 frame.top=6
-frame.bottom=4
+frame.bottom=6
 frame.left=6
 frame.right=6
 text.normal.color=#f2f2f2dd
@@ -248,7 +258,6 @@ indicator.element=resize-grip
 indicator.size=13
 
 [Toolbar]
-inherits=PanelButtonCommand
 indicator.element=toolbar
 indicator.size=5
 text.margin=0
@@ -434,7 +443,7 @@ frame=true
 frame.element=tabbarFrame
 interior.element=tabbarFrame
 interior=true
-frame.top=6
+frame.top=2
 frame.bottom=2
 frame.left=2
 frame.right=2
