@@ -27,7 +27,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.9195959"
-     inkscape:cx="55.359472"
+     inkscape:cx="29.600582"
      inkscape:cy="15.16109"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -52,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -163,6 +163,49 @@
            width="0.66834229"
            id="rect838"
            style="opacity:1;fill:#e2e2e2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.47227547;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      </g>
+    </g>
+    <g
+       id="deactivated-center"
+       transform="matrix(3.7795275,0,0,3.7795275,222.23667,-662.51815)">
+      <rect
+         y="293.03293"
+         x="6.5583491"
+         height="5.291667"
+         width="5.291667"
+         id="rect2967"
+         style="opacity:1;fill:none;fill-opacity:0.125;fill-rule:evenodd;stroke:none;stroke-width:3.24064445;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;shape-rendering:crispEdges" />
+      <circle
+         r="2.1166668"
+         cy="295.67877"
+         cx="9.2041826"
+         id="circle2969"
+         style="opacity:1;fill:#364b88;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.71437502;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;shape-rendering:crispEdges" />
+      <g
+         style="shape-rendering:crispEdges"
+         transform="rotate(45,-3.2791243,299.13463)"
+         id="g2973">
+        <rect
+           style="opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.47227547;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+           id="rect2971"
+           width="0.66834229"
+           height="1.9871042"
+           x="205.41141"
+           y="200.36195"
+           transform="rotate(45)" />
+      </g>
+      <g
+         id="g2977"
+         transform="rotate(135,4.5357125,293.03469)"
+         style="shape-rendering:crispEdges">
+        <rect
+           transform="rotate(45)"
+           y="200.36195"
+           x="205.41141"
+           height="1.9871042"
+           width="0.66834229"
+           id="rect2975"
+           style="opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.47227547;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
       </g>
     </g>
   </g>
